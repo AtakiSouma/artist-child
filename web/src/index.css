@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+  'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+  'Noto Color Emoji';
+:root {
+  
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  line-height: 2;
+  font-weight: 500;
+  font-feature-settings: normal;
+  font-variation-settings: normal;
+  tab-size: 4;
+  -webkit-tap-highlight-color: transparent;
+
+  /* color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+:where(.css-dev-only-do-not-override-1kuana8).ant-image {
+  display: block;
+}
+.parent-class .ant-image {
+  display: block;
+}
+.ant-image {
+  display: block;
+}
+.ant-layout-sider-light {
+  background: "#135D66";
+}
+.ant-layout-sider-children {
+  background-color: "#135D66";
+}
+.ant-menu-item {
+  background-color: "#135D66";
+}
+.ant-menu-title-content::after {
+  background-color: "#135D66";
+}
+.ant-menu-item.ant-menu-item-selected {
+  background-color: #135d66; /* Example background color */
+  color: #fff; /* Example text color */
+}

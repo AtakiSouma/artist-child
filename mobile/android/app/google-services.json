@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285509503794",
+    "project_id": "mmmaart-c0a36",
+    "storage_bucket": "mmmaart-c0a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285509503794:android:4ccfdaa237c4a7bedbe52b",
+        "android_client_info": {
+          "package_name": "com.anonymous.myass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285509503794-ae7g9r86n8svtri23tttl6mlkrkajb2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPMB3jXYsLq4BYP6e1Ps76PglBLYzt_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285509503794-ae7g9r86n8svtri23tttl6mlkrkajb2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
